@@ -1,0 +1,16 @@
+{
+  "name": "mersdorf/save-namespace",
+  "description": "dummy project for namespace",
+  "type": "project",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Alexander Mersdorf",
+      "email": "alexmersdorf@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "7.0.*"
+  }
+}
